@@ -9,7 +9,7 @@ You'll need to provide your own `application.properties` in order for the app to
 - spring.datasource.username=
 - spring.datasource.password=
 - jwt.secret=
-- 
+
 \# AWS S3 configuration
 - aws.access_key_id=
 - aws.secret_access_key=
